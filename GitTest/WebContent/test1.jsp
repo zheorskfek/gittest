@@ -9,6 +9,10 @@
 <body>
 test1.jsp 수정 
 update2
+<<<<<<< HEAD
 myupdate
+=======
+gitupdate
+>>>>>>> refs/remotes/choose_remote_name/master
 </body>
 </html>
